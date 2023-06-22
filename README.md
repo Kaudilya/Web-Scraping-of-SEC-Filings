@@ -3,8 +3,6 @@
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 Example:
 In an SEC filing, if the footnote has the term 'side pocket' in it, this program helps to retrieve that footnote alone.
